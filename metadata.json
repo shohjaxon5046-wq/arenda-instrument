@@ -1,0 +1,8 @@
+{
+  "name": "Instrument Arenda",
+  "description": "Asbob-uskunalar ijarasi, prixod, mijozlar zakazlari va avtomatik qaytarish eslatmalari boshqaruvi tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
